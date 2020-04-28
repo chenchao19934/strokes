@@ -1,0 +1,4 @@
+<view class="box" id="box">
+  <canvas type="2d" id="canvas2d" bindtouchstart="touchStart" bindtouchmove="touchMove" bindtouchend="touchEnd"></canvas>
+  <button type="default" bindtap="clearCanvas">清空</button>
+</view>

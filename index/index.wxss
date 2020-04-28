@@ -1,0 +1,13 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+}
+
+canvas {
+  width: 100%;
+  height: 600rpx;
+}
+
+button {
+  margin-top: 20rpx;
+}
